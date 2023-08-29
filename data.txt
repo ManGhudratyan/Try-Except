@@ -1,0 +1,5 @@
+10
+20
+word
+something
+30
